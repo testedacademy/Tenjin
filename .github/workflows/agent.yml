@@ -16,7 +16,7 @@ jobs:
       IPADDR: 'https://rankajunction.tenjinonline.com'
       INSID: 'rankajunction'
       APITOKEN: 'fY2S2DWbKLr3kwD76t0AwGnf3UkwvWj4mdanUzNsTI4Pncm3Td5TK0IxGUpi6RMDCdhFnBWg1wQbrX+nhBqJR+Mny6EGrFxChiXMdLh7raTLcCx8DQ7ggzLgI7gICwPibBdfxHa6/zpaGfKvPhFa7OtCb7lg/BjBQpEMfq4lGl8DPpRCKBg4p7uIJ7Sf/cQa5ahNd2RhpnAX4kqa+1yE3Pwsp1r9czMkvLMGcxcCczVssHZBriaYvm42sKqC93ij/HwFxJc+xUPw9Tm5Nc7FHheJZ0Mc5po0SnNQrN+oKM9w5dKvjTaLL9pjPiKhRxvrIm13POGWn2oB3IKl5AwFbQ=='
-      AGENTNAME: 'Tested Academy'
+      AGENTNAME: 'TESTED ACADEMY'
       INCLUDECLOUDDEVICE: 'FALSE'
       INCLUDECLOUDBROWSER: 'FALSE'
       DEVICENAME: ''
